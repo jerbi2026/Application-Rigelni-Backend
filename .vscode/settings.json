@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/36a6dad1-0f03-46ac-adb5-7f73005fe8e4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/disease-prediction",
+    "appService.deploySubpath": "."
+}
